@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	    <!-- where the FUCK does the title appear? -->
+		<title>WT Hall</title>
+	</head>
+	<body style="font-family: Gil Sans;font-size: 12px">
+	    <img src="https://static-secure.guim.co.uk/sys-images/Sport/Pix/pictures/2009/3/24/1237895708887/Zinedine-Zidane-001.jpg">
+	        <h3 style="color: blue">Agent Info</h3>
+	            <ul>
+	                <li> Name: WT Hall </li>
+	                <li> Age: 26 </li>
+	                <li> Hometown: Durham, NC </li>
+	                <p> Agent WT Hall is a recent graduate of the University of Oregon, is comfortable across all cultures, is able to blend in and avoid attention, and works well on his own or in a team </p> 
+             </ul>
+             <ul>
+                 <li style="color: blue"> Interests:</li>
+                     <ul>
+                         <li>Soccer</li>
+                         <li>Video games</li>
+                         <li>IP</li> 
+                         <li>Cooking</li>
+                     </ul>
+             </ul>
+             <ul>
+                 <li style="color: blue"> Jobs:</li>
+                     <ul>
+                         <li>Lawyer</li>
+                         <li>Journalist</li>
+                         <li>Chef</li>
+                     </ul>
+             </ul>
+             <ul>
+                 <li style="color: blue"> Languages:</li>
+                     <ul>
+                         <li>English</li>
+                         <li>Spanish</li>
+                         <li>HTML</li>
+                     </ul>
+             </ul> 
+             <ul>
+                 <li style="color: blue"> Favorite Foods:</li>
+                     <ul> 
+                         <li>Salmon</li>
+                         <li>Steak</li>
+                         <li>Sauted Onions</li>
+                         <li>Sweat potatoes</li>
+                     </ul>
+	            </ul>
+     </body>
+</html>
+
