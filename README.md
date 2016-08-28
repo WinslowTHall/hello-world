@@ -1,2 +1,3 @@
 # hello-world
-blah blah blah
+
+Hi! I'm learning code, and to use Github.
